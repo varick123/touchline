@@ -10,6 +10,8 @@ A Microsoft Agent Framework system that turns synthetic football events into mat
 personalized graphics and broadcaster-oriented cue contracts. Built for the Microsoft × Premier League
 *Inside the Game* hackathon.
 
+Study fork of [Kalai’s original Touchline repository](https://github.com/likalight/touchline). The project, artwork, demo, and CI links below are credited to the upstream contributors.
+
 [![CI](https://github.com/likalight/touchline/actions/workflows/ci.yml/badge.svg)](https://github.com/likalight/touchline/actions/workflows/ci.yml)
 [![MIT](https://img.shields.io/badge/license-MIT-f2c14e.svg)](LICENSE)
 ![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-0f2b20.svg)
